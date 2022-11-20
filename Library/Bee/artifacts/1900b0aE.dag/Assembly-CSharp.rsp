@@ -357,8 +357,10 @@
 "Assets/Script/Camara.cs"
 "Assets/Script/Carro.cs"
 "Assets/Script/Destructor.cs"
+"Assets/Script/Hojas.cs"
 "Assets/Script/Movimiento.cs"
 "Assets/Script/Mundo.cs"
+"Assets/Script/Obstaculo.cs"
 "Assets/Script/RetornoCarros.cs"
 -langversion:9.0
 

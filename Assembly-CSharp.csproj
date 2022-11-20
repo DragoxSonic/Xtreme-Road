@@ -62,6 +62,8 @@
     <Compile Include="Assets\Script\RetornoCarros.cs" />
     <Compile Include="Assets\Script\Mundo.cs" />
     <Compile Include="Assets\Script\Carro.cs" />
+    <Compile Include="Assets\Script\Hojas.cs" />
+    <Compile Include="Assets\Script\Obstaculo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Downtown Game Studio\Nature Pack - Low Polly Trees &amp; Bushes\Documentation.txt" />
